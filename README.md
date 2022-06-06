@@ -2,7 +2,6 @@
 
 # Scrapy + Power BI = Magic: The Gathering!
 
-<iframe title="Dash_Magic - Cash_Card" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYzhhMWI1NzMtYWM0ZS00NTMwLThlMWQtZDYzNDNkNzA1ZjI5IiwidCI6IjQ0NGZlYzNjLTFhZDAtNDFlZS1iNGRjLWY0Nzg5ZGZlNGQ5ZCJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 Foi realizado a scraping da página de venda de cartas [MTG Gold Fish](https://www.mtggoldfish.com/) com intuito de testar algumas técnicas de coleta, limpeza e apresentação de dados.
 - Link: www.encurtador.com.br/bdflE
