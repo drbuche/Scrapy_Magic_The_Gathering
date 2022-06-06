@@ -1,0 +1,12 @@
+altgraph==0.17
+attrs==20.2.0
+Automat==20.2.0
+beautifulsoup4==4.11.1
+matplotlib==3.4.1
+numpy==1.18.1
+pandas==1.1.4
+Scrapy==2.6.1
+scrapy-splash==0.8.0
+seaborn==0.11.2
+selenium==3.141.0
+
