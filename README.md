@@ -42,10 +42,4 @@ DOWNLOAD_DELAY = 0.90 # tente usar entre 0.25 a 1
 python join_cards.py
 ``` 
 
-*Não esqueça que os arquivos .csv devem estar na mesma pasta que os módulos, caso contrario mude o caminho do arquivo dentro do modulo.*"# Scrapy_MagicTG_Cards" 
-"# Scrapy_MagicTG_Cards" 
-"# Scrapy_MagicTG_Cards" 
-"# Scrapy_MagicTG_Cards" 
-"# Scrapy_MagicTG_Cards" 
-"# Scrapy_MagicTG_Cards" 
-"# Scrapy_MagicTG_Cards" 
+*Não esqueça que os arquivos .csv devem estar na mesma pasta que os módulos, caso contrario mude o caminho do arquivo dentro do modulo. 
