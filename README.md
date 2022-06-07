@@ -5,7 +5,9 @@
 
 Foi realizado a scraping da página de venda de cartas [MTG Gold Fish](https://www.mtggoldfish.com/) com intuito de testar algumas técnicas de coleta, limpeza e apresentação de dados.
 
-- Link para o Dashboard: https://app.powerbi.com/view?r=eyJrIjoiYzhhMWI1NzMtYWM0ZS00NTMwLThlMWQtZDYzNDNkNzA1ZjI5IiwidCI6IjQ0NGZlYzNjLTFhZDAtNDFlZS1iNGRjLWY0Nzg5ZGZlNGQ5ZCJ9
+- Link para o Dashboard: [Microsoft Power BI.](https://app.powerbi.com/view?r=eyJrIjoiYzhhMWI1NzMtYWM0ZS00NTMwLThlMWQtZDYzNDNkNzA1ZjI5IiwidCI6IjQ0NGZlYzNjLTFhZDAtNDFlZS1iNGRjLWY0Nzg5ZGZlNGQ5ZCJ9)
+
+- Link para o LinkedIn: [seu like pode me ajudar! :)](https://www.linkedin.com/posts/fabio-augusto-buche-barros-a6271018b_python-powerbi-github-activity-6939687014703230976-oX4M?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
 - Para tal projetos, foram utilizadas as seguintes ferramentas:
 
