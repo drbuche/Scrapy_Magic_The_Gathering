@@ -1,8 +1,8 @@
 import scrapy
 
-class Cartas_NL(scrapy.Spider):
+class LinksSpecial(scrapy.Spider):
 
-    name = 'Cartas_special'
+    name = 'links_special'
     start_urls = ['https://www.mtggoldfish.com/prices/paper/special']
 
     def parse(self, response):

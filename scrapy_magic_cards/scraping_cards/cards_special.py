@@ -2,7 +2,7 @@ import scrapy
 import csv
 
 
-class TickersSpider(scrapy.Spider):
+class CardsSpecial(scrapy.Spider):
     name = 'Cards_special'
     allowed_domains = ['https://www.mtggoldfish.com/']
     start_urls = []
@@ -45,7 +45,7 @@ class TickersSpider(scrapy.Spider):
         taxa_foil = response.css('.price-card-statistics-table:nth-child(1) tr~ tr+ tr .text-right::text').get()
         spread = response.css('.price-card-statistics-table:nth-child(1) tr:nth-child(1) .text-right::text').get()
         imagem = response.xpath('//body//main//div//div//picture//@src').get()
-        # print(response.xpath('//body//main//div//div//picture//@src').get())
+
 
         yield {
 
